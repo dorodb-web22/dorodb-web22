@@ -29,9 +29,7 @@ Experience includes:
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="65" height="65" /><br><sub><b>HTML</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="65" height="65" /><br><sub><b>CSS</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" /><br><sub><b>C++</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="65" height="65" /><br><sub><b>Java</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=scala" width="65" height="65" /><br><sub><b>Scala</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="65" height="65" /><br><sub><b>Dart</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="65" height="65" /><br><sub><b>Go</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=solidity" width="65" height="65" /><br><sub><b>Solidity</b></sub></td>
   </tr>
