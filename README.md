@@ -5,16 +5,14 @@
 
 ## About Me
 
-Highly driven developer focused on **AI/ML systems, full-stack engineering, and open-source infrastructure.**  
+Building **AI/ML-driven systems** and scalable **full-stack applications**, with a focus on real-world impact and open-source infrastructure.
 Experience includes:
 
-- Built **Adversa** : OpenEnv-compliant multi-agent courtroom simulation where LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections & deterministic jurors
-- Built **CodeLens** : real-time collaborative code review platform ("Google Docs meets GitHub PRs") with Monaco Editor, WebSocket sync, and JWT auth
-- Built **ProofMint** : Web3 app for publishing & verifying IP on Flare with SHA-256 proofs and tamper-proof on-chain records
-- Built **GlobalTrace** : geospatial supply chain transparency platform (TypeScript, full-stack)
-- Contributed to **CacheForge** : RL-based multi-tier cache optimization with dynamic TTL tuning & eviction strategies
-
-Always learning, shipping, and optimizing code.
+-  **Adversa** : OpenEnv-compliant multi-agent courtroom simulation where LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections & deterministic jurors
+- **CodeLens** : real-time collaborative code review platform ("Google Docs meets GitHub PRs") with Monaco Editor, WebSocket sync, and JWT auth
+- **ProofMint** : Web3 app for publishing & verifying IP on Flare with SHA-256 proofs and tamper-proof on-chain records
+- **GlobalTrace** : geospatial supply chain transparency platform (TypeScript, full-stack)
+- **CacheForge** : RL-based multi-tier cache optimization with dynamic TTL tuning & eviction strategies
 
 ---
 
@@ -78,17 +76,7 @@ Always learning, shipping, and optimizing code.
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dorodb-web22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorodb-web22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorodb-web22&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
-</p>
 
 ## 📈 Contribution Activity
 
@@ -112,24 +100,6 @@ Always learning, shipping, and optimizing code.
 
 ---
 
-## 🏆 GitHub Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dorodb-web22&theme=darkhub&no-frame=true&column=7&margin-w=8" />
-</p>
-
----
-
-## 🌍 Open-Source Engagement
-
-- Active contributor to **llm4s** — Scala agentic LLM framework; `@scalacenter` · `@scalameta` ecosystem
-- Audited and contributed to **OpenEverest** — automated Kubernetes database provisioning platform
-- Forked and studied **Kubescape** — open-source Kubernetes security platform (Go)
-- Interested in **LFX Mentorship**, **AI infrastructure**, **DevSecOps**, and **multi-agent systems**
-- Always available for collaborative, high-impact open-source work
-
----
-
 ## 🚀 Featured Projects
 
 **[Adversa](https://github.com/dorodb-web22/Adversa)** · `Python`  
@@ -149,19 +119,6 @@ RL-based multi-tier cache optimization system using dynamic TTL tuning, eviction
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/dorothy-athukiri">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-<p align="center"><i>"Build bravely. Ship fast. Learn always."</i></p>
 
 
 
