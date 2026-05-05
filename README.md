@@ -8,12 +8,11 @@
 Highly driven developer focused on **AI/ML systems, full-stack engineering, and open-source infrastructure.**  
 Experience includes:
 
-- Contributing to **llm4s** — Scala-based agentic LLM framework (`@scalacenter` · `@scalameta` ecosystem); shipped PR #912 adding configurable provider timeouts
-- Built **Adversa** — OpenEnv-compliant multi-agent courtroom simulation where LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections & deterministic jurors
-- Built **CodeLens** — real-time collaborative code review platform ("Google Docs meets GitHub PRs") with Monaco Editor, WebSocket sync, and JWT auth
-- Built **ProofMint** — Web3 app for publishing & verifying IP on Flare with SHA-256 proofs and tamper-proof on-chain records
-- Built **GlobalTrace** — geospatial supply chain transparency platform (TypeScript, full-stack)
-- Contributed to **CacheForge** — RL-based multi-tier cache optimization with dynamic TTL tuning & eviction strategies
+- Built **Adversa** : OpenEnv-compliant multi-agent courtroom simulation where LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections & deterministic jurors
+- Built **CodeLens** : real-time collaborative code review platform ("Google Docs meets GitHub PRs") with Monaco Editor, WebSocket sync, and JWT auth
+- Built **ProofMint** : Web3 app for publishing & verifying IP on Flare with SHA-256 proofs and tamper-proof on-chain records
+- Built **GlobalTrace** : geospatial supply chain transparency platform (TypeScript, full-stack)
+- Contributed to **CacheForge** : RL-based multi-tier cache optimization with dynamic TTL tuning & eviction strategies
 
 Always learning, shipping, and optimizing code.
 
@@ -90,7 +89,6 @@ Always learning, shipping, and optimizing code.
 ## 🌍 Open-Source Engagement
 
 - Active contributor to **llm4s** — Scala agentic LLM framework; `@scalacenter` · `@scalameta` ecosystem
-- Forked and contributed to **cht-core** (CHT Core Framework — offline-first digital health apps)
 - Audited and contributed to **OpenEverest** — automated Kubernetes database provisioning platform
 - Forked and studied **Kubescape** — open-source Kubernetes security platform (Go)
 - Interested in **LFX Mentorship**, **AI infrastructure**, **DevSecOps**, and **multi-agent systems**
