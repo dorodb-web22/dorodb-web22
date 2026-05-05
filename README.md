@@ -115,9 +115,6 @@ Geospatial supply chain transparency platform. Full-stack clean-room build showc
 **[CacheForge](https://github.com/dorodb-web22/CacheForge)** · `Python`  
 RL-based multi-tier cache optimization system using dynamic TTL tuning, eviction strategies, and tier placement to maximize cache efficiency.
 
-**[llm4s Contributions](https://github.com/dorodb-web22/llm4s)** · `Scala`  
-Fork of the `llm4s/llm4s` agentic LLM framework. PR #912: configurable provider timeouts in a strict Scala FP codebase (ScalaFmt + ScalaFix enforced).
-
 ---
 
 ## 🤝 Connect With Me
