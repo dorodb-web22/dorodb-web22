@@ -18,29 +18,63 @@ Always learning, shipping, and optimizing code.
 
 ---
 
+
 ## 🛠 Tech Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,java" />
-  <img src="https://skillicons.dev/icons?i=scala,dart,go,solidity" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="65" height="65" /><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="65" height="65" /><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="65" height="65" /><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="65" height="65" /><br><sub><b>HTML</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="65" height="65" /><br><sub><b>CSS</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" /><br><sub><b>C++</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="65" height="65" /><br><sub><b>Java</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=scala" width="65" height="65" /><br><sub><b>Scala</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="65" height="65" /><br><sub><b>Dart</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="65" height="65" /><br><sub><b>Go</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=solidity" width="65" height="65" /><br><sub><b>Solidity</b></sub></td>
+  </tr>
+</table>
 
 ### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind" />
-  <img src="https://skillicons.dev/icons?i=fastapi,vite,figma" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="65" height="65" /><br><sub><b>React</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" /><br><sub><b>Next.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" /><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="65" height="65" /><br><sub><b>Express</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="65" height="65" /><br><sub><b>Redux</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" /><br><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" /><br><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="65" height="65" /><br><sub><b>Vite</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="65" height="65" /><br><sub><b>Figma</b></sub></td>
+  </tr>
+</table>
 
 ### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" /><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" /><br><sub><b>MySQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" /><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" /><br><sub><b>SQLite</b></sub></td>
+  </tr>
+</table>
 
 ### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="65" height="65" /><br><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="65" height="65" /><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="65" height="65" /><br><sub><b>Docker</b></sub></td>
+  </tr>
+</table>
 
 ---
 
