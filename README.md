@@ -1,11 +1,5 @@
-<h1 align="center">Dorothy Athukiri</h1>
+<h1 align="center">Dorothy</h1>
 <h3 align="center">AI Systems · Full-Stack Engineering · Open-Source Contributor</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dorodb-web22&style=flat-square&color=0d1117&labelColor=00b4d8&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/dorodb-web22?style=flat-square&color=0d1117&labelColor=00b4d8&label=FOLLOWERS" />
-</p>
 
 ---
 
@@ -61,6 +55,26 @@ Always learning, shipping, and optimizing code.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorodb-web22&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorodb-web22&theme=github-compact&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorodb-web22&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dorodb-web22&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dorodb-web22&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dorodb-web22&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dorodb-web22&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
@@ -119,3 +133,6 @@ Fork of the `llm4s/llm4s` agentic LLM framework. PR #912: configurable provider 
 </p>
 
 <p align="center"><i>"Build bravely. Ship fast. Learn always."</i></p>
+
+
+
