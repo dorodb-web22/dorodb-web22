@@ -12,7 +12,7 @@ Experience includes:
 OpenEnv-compliant multi-agent courtroom simulation. LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections, and deterministic jurors. RL environment design + multi-agent systems.
 
 **[CodeLens](https://github.com/dorodb-web22/CodeLens)** · `Python · TypeScript · React`  
-Real-time collaborative code review — "Google Docs meets GitHub PRs." Monaco Editor, WebSocket sync, threaded annotations, live presence, version diff, and JWT auth (FastAPI + MongoDB backend).
+Real-time collaborative code review : "Google Docs meets GitHub PRs." Monaco Editor, WebSocket sync, threaded annotations, live presence, version diff, and JWT auth (FastAPI + MongoDB backend).
 
 **[ProofMint](https://github.com/dorodb-web22/ProofMint)** · `TypeScript`  
 Web3 IP verification app built on the Flare network. SHA-256 content proofs stored as tamper-proof on-chain records for ownership authentication.
