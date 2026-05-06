@@ -8,11 +8,21 @@
 Building **AI/ML-driven systems** and scalable **full-stack applications**, with a focus on real-world impact and open-source infrastructure.
 Experience includes:
 
--  **Adversa** : OpenEnv-compliant multi-agent courtroom simulation where LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections & deterministic jurors
-- **CodeLens** : real-time collaborative code review platform ("Google Docs meets GitHub PRs") with Monaco Editor, WebSocket sync, and JWT auth
-- **ProofMint** : Web3 app for publishing & verifying IP on Flare with SHA-256 proofs and tamper-proof on-chain records
-- **GlobalTrace** : geospatial supply chain transparency platform (TypeScript, full-stack)
-- **CacheForge** : RL-based multi-tier cache optimization with dynamic TTL tuning & eviction strategies
+**[Adversa](https://github.com/dorodb-web22/Adversa)** · `Python`  
+OpenEnv-compliant multi-agent courtroom simulation. LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections, and deterministic jurors. RL environment design + multi-agent systems.
+
+**[CodeLens](https://github.com/dorodb-web22/CodeLens)** · `Python · TypeScript · React`  
+Real-time collaborative code review — "Google Docs meets GitHub PRs." Monaco Editor, WebSocket sync, threaded annotations, live presence, version diff, and JWT auth (FastAPI + MongoDB backend).
+
+**[ProofMint](https://github.com/dorodb-web22/ProofMint)** · `TypeScript`  
+Web3 IP verification app built on the Flare network. SHA-256 content proofs stored as tamper-proof on-chain records for ownership authentication.
+
+**[GlobalTrace](https://github.com/dorodb-web22/GlobalTrace0)** · `TypeScript`  
+Geospatial supply chain transparency platform. Full-stack clean-room build showcasing mapping intelligence and traceable provenance.
+
+**[CacheForge](https://github.com/dorodb-web22/CacheForge)** · `Python`  
+RL-based multi-tier cache optimization system using dynamic TTL tuning, eviction strategies, and tier placement to maximize cache efficiency.
+
 
 ---
 
@@ -98,24 +108,7 @@ Experience includes:
 
 ---
 
-## 🚀 Featured Projects
 
-**[Adversa](https://github.com/dorodb-web22/Adversa)** · `Python`  
-OpenEnv-compliant multi-agent courtroom simulation. LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections, and deterministic jurors. RL environment design + multi-agent systems.
-
-**[CodeLens](https://github.com/dorodb-web22/CodeLens)** · `Python · TypeScript · React`  
-Real-time collaborative code review — "Google Docs meets GitHub PRs." Monaco Editor, WebSocket sync, threaded annotations, live presence, version diff, and JWT auth (FastAPI + MongoDB backend).
-
-**[ProofMint](https://github.com/dorodb-web22/ProofMint)** · `TypeScript`  
-Web3 IP verification app built on the Flare network. SHA-256 content proofs stored as tamper-proof on-chain records for ownership authentication.
-
-**[GlobalTrace](https://github.com/dorodb-web22/GlobalTrace0)** · `TypeScript`  
-Geospatial supply chain transparency platform. Full-stack clean-room build showcasing mapping intelligence and traceable provenance.
-
-**[CacheForge](https://github.com/dorodb-web22/CacheForge)** · `Python`  
-RL-based multi-tier cache optimization system using dynamic TTL tuning, eviction strategies, and tier placement to maximize cache efficiency.
-
----
 
 
 
