@@ -36,8 +36,6 @@ RL-based multi-tier cache optimization system using dynamic TTL tuning, eviction
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="65" height="65" /><br><sub><b>Python</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="65" height="65" /><br><sub><b>JavaScript</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="65" height="65" /><br><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="65" height="65" /><br><sub><b>HTML</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="65" height="65" /><br><sub><b>CSS</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" /><br><sub><b>C++</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=scala" width="65" height="65" /><br><sub><b>Scala</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="65" height="65" /><br><sub><b>Go</b></sub></td>
