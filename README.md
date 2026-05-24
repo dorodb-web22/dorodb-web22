@@ -1,27 +1,28 @@
 <h1 align="center">Dorothy</h1>
-<h3 align="center">AI Systems · Full-Stack Engineering · Open-Source Contributor</h3>
+
+<h3 align="center">
+  <b>Kubernetes Contributor · Cloud Native Observability · Open-Source</b>
+</h3>
 
 ---
 
 ## About Me
+Building AI/ML-driven systems and scalable full-stack applications, ranging from React frontends and FastAPI backends to Go-based cloud-native infrastructure and Prometheus-powered observability ; with a focus on real-world impact and open-source engineering. Experience includes:
 
-Building **AI/ML-driven systems** and scalable **full-stack applications**, with a focus on real-world impact and open-source infrastructure.
-Experience includes:
+**[nrc-readiness-poc](https://github.com/dorodb-web22/nrc-readiness-poc)** · `Go` · `Prometheus` · `TypeScript` · `Headlamp SDK` · `Grafana`
+Pre-application PoC for CNCF LFX Mentorship (kubernetes-sigs/node-readiness-controller#182). Per-rule `HistogramVec` metrics patch, 9.85 KB Headlamp plugin with CRD-gated sidebar + Node-page injection, and 7-panel Grafana SLO dashboard — deployed on a live `kind` cluster.
 
-**[Adversa](https://github.com/dorodb-web22/Adversa)** · `Python`  
-OpenEnv-compliant multi-agent courtroom simulation. LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections, and deterministic jurors. RL environment design + multi-agent systems.
+**[Adversa](https://github.com/dorodb-web22/Adversa)** · `Python`
+OpenEnv-compliant multi-agent courtroom simulation. LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections, and deterministic jurors.
 
-**[CodeLens](https://github.com/dorodb-web22/CodeLens)** · `Python · TypeScript · React`  
-Real-time collaborative code review : "Google Docs meets GitHub PRs." Monaco Editor, WebSocket sync, threaded annotations, live presence, version diff, and JWT auth (FastAPI + MongoDB backend).
+**[CodeLens](https://github.com/dorodb-web22/CodeLens)** · `Python` · `TypeScript` · `React`
+Real-time collaborative code review — Monaco Editor, WebSocket sync, threaded annotations, live presence, and JWT auth (FastAPI + MongoDB backend).
 
-**[ProofMint](https://github.com/dorodb-web22/ProofMint)** · `TypeScript`  
-Web3 IP verification app built on the Flare network. SHA-256 content proofs stored as tamper-proof on-chain records for ownership authentication.
+**[GlobalTrace](https://github.com/dorodb-web22/GlobalTrace0)** · `TypeScript`
+Interactive 3D globe with live World Bank data, animated arc markers, and custom WebGL shaders. Zustand state management for real-time dataset switching.
 
-**[GlobalTrace](https://github.com/dorodb-web22/GlobalTrace0)** · `TypeScript`  
-Geospatial supply chain transparency platform. Full-stack clean-room build showcasing mapping intelligence and traceable provenance.
-
-**[CacheForge](https://github.com/dorodb-web22/CacheForge)** · `Python`  
-RL-based multi-tier cache optimization system using dynamic TTL tuning, eviction strategies, and tier placement to maximize cache efficiency.
+**[CacheForge](https://github.com/dorodb-web22/CacheForge)** · `Python`
+RL-based multi-tier cache optimization using dynamic TTL tuning, eviction strategies, and tier placement.
 
 
 ---
@@ -33,13 +34,32 @@ RL-based multi-tier cache optimization system using dynamic TTL tuning, eviction
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="65" height="65" /><br><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="65" height="65" /><br><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="65" height="65" /><br><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" /><br><sub><b>C++</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=scala" width="65" height="65" /><br><sub><b>Scala</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="65" height="65" /><br><sub><b>Go</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="65" height="65" /><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="65" height="65" /><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="65" height="65" /><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=scala" width="65" height="65" /><br><sub><b>Scala</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="65" height="65" /><br><sub><b>Dart</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" /><br><sub><b>C++</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=solidity" width="65" height="65" /><br><sub><b>Solidity</b></sub></td>
+  </tr>
+</table>
+
+### Cloud Native & Observability
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" /><br><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65" /><br><sub><b>Prometheus</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="65" height="65" /><br><sub><b>Grafana</b></sub></td>
+   <td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" width="65" height="65" />
+  <br><sub><b>Helm</b></sub>
+</td>
+   <td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/kubernetes-sigs/kind/main/logo/logo.png" width="65" height="65" />
+  <br><sub><b>kind</b></sub>
+</td>
   </tr>
 </table>
 
@@ -48,14 +68,11 @@ RL-based multi-tier cache optimization system using dynamic TTL tuning, eviction
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="65" height="65" /><br><sub><b>React</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" /><br><sub><b>Next.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" /><br><sub><b>FastAPI</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" /><br><sub><b>Node.js</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="65" height="65" /><br><sub><b>Express</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="65" height="65" /><br><sub><b>Redux</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" /><br><sub><b>Tailwind</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" /><br><sub><b>FastAPI</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="65" height="65" /><br><sub><b>Vite</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="65" height="65" /><br><sub><b>Figma</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" /><br><sub><b>Tailwind</b></sub></td>
   </tr>
 </table>
 
@@ -66,7 +83,6 @@ RL-based multi-tier cache optimization system using dynamic TTL tuning, eviction
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" /><br><sub><b>MongoDB</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" /><br><sub><b>MySQL</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" /><br><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" /><br><sub><b>SQLite</b></sub></td>
   </tr>
 </table>
 
@@ -79,6 +95,8 @@ RL-based multi-tier cache optimization system using dynamic TTL tuning, eviction
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="65" height="65" /><br><sub><b>Docker</b></sub></td>
   </tr>
 </table>
+
+
 
 ---
 
