@@ -10,13 +10,13 @@
 Building AI/ML-driven systems and scalable full-stack applications, ranging from React frontends and FastAPI backends to Go-based cloud-native infrastructure and Prometheus-powered observability ; with a focus on real-world impact and open-source engineering. Experience includes:
 
 **[nrc-readiness-poc](https://github.com/dorodb-web22/nrc-readiness-poc)** · `Go` · `Prometheus` · `TypeScript` · `Headlamp SDK` · `Grafana`
-Pre-application PoC for CNCF LFX Mentorship (kubernetes-sigs/node-readiness-controller#182). Per-rule `HistogramVec` metrics patch, 9.85 KB Headlamp plugin with CRD-gated sidebar + Node-page injection, and 7-panel Grafana SLO dashboard — deployed on a live `kind` cluster.
+Pre-application PoC for CNCF LFX Mentorship (kubernetes-sigs/node-readiness-controller#182). Per-rule `HistogramVec` metrics patch, 9.85 KB Headlamp plugin with CRD-gated sidebar + Node-page injection, and 7-panel Grafana SLO dashboard : deployed on a live `kind` cluster.
 
 **[Adversa](https://github.com/dorodb-web22/Adversa)** · `Python`
 OpenEnv-compliant multi-agent courtroom simulation. LLM agents (Prosecutor, Defense, Judge) run trials with hidden evidence, strategic objections, and deterministic jurors.
 
 **[CodeLens](https://github.com/dorodb-web22/CodeLens)** · `Python` · `TypeScript` · `React`
-Real-time collaborative code review — Monaco Editor, WebSocket sync, threaded annotations, live presence, and JWT auth (FastAPI + MongoDB backend).
+Real-time collaborative code review : Monaco Editor, WebSocket sync, threaded annotations, live presence, and JWT auth (FastAPI + MongoDB backend).
 
 **[GlobalTrace](https://github.com/dorodb-web22/GlobalTrace0)** · `TypeScript`
 Interactive 3D globe with live World Bank data, animated arc markers, and custom WebGL shaders. Zustand state management for real-time dataset switching.
